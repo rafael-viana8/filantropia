@@ -1,9 +1,10 @@
 # Site Filantropica
 
 ##  Oque é nosso projeto?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget lacinia enim. Curabitur nulla erat, rutrum a vulputate et, efficitur ut lectus. Fusce arcu dolor, semper id laoreet facilisis, semper a nibh. Nulla diam quam, convallis sed auctor quis, consectetur eget ante. Phasellus non nulla congue, volutpat urna sed, egestas urna. Nam eget volutpat enim. Aenean elementum semper quam, vel rhoncus orci porta nec. Integer sodales elit lectus, ut semper erat elementum in. Ut non odio et orci pretium commodo vitae in sapien. Nulla facilisi. Suspendisse varius ante sapien. Nulla aliquet facilisis venenatis.
-
-Phasellus scelerisque ante quis accumsan ultricies. Donec leo felis, euismod a eros eget, facilisis sollicitudin lectus. Fusce ornare dolor vitae arcu congue cursus. Nam hendrerit mi venenatis magna euismod scelerisque. Nulla eu nulla a magna aliquet viverra et at tortor. Duis at tortor a ligula imperdiet scelerisque. Curabitur sodales nisi vitae tortor ultricies, nec lobortis neque scelerisque. Curabitur in viverra dui, eu varius magna. Suspendisse vitae mi quam. Pellentesque convallis tristique enim et fermentum. Sed volutpat magna non leo hendrerit, vel pulvinar lacus tincidunt. Etiam lectus justo, interdum non lacus eget, consectetur scelerisque quam. Quisque nunc enim, consequat et nibh ut, feugiat varius odio.
+Nosso projeto é um site que busca atender uma ONG chamada Filantropica que é uma entidade que tem a finalidade de atender crianças e adolescentes em situação de risco pessoal e social visando à sua proteção.
+A ASSOCIAÇÃO FILANTRÓPICA DE MARÍLIA, sociedade civil e sem fins lucrativos, declarada de utilidade pública Municipal, Estadual e Federal recebendo recursos por meio destes órgãos. Fundada em 31 de outubro de 1942, sendo os principais fundadores.
+### historia
+A ASSOCIAÇÃO FILANTRÓPICA DE MARÍLIA, sociedade civil e sem fins lucrativos, declarada de utilidade pública Municipal, Estadual e Federal recebendo recursos por meio destes órgãos. Fundada em 31 de outubro de 1942, sendo os principais fundadores os Srs. Higino Muzzi, Paulo Correia de Lara, Frediano Giometi, Luiz Laraya, Sebastião Gonçalves, entre outros. A entidade tem a finalidade de atender crianças e adolescentes em situação de risco pessoal e social, com seus direitos ameaçados e/ou violados, visando à proteção especial temporária/acolhimento institucional. O atendimento é oferecido para crianças e adolescentes do sexo masculino, de dois aos dezoito anos de idade incompletos, encaminhados pelo Poder Judiciário da Comarca de Marília/SP; proporcionando aos mesmos: moradia, alimentação, educação, saúde, vestuário, cultura, lazer, esporte, profissionalização, preservação dos vínculos familiares e promoção da reintegração familiar, visando proteção integral e prioritária.
 
 ## Tecnologias usadas:
 * HTML5
@@ -11,4 +12,27 @@ Phasellus scelerisque ante quis accumsan ultricies. Donec leo felis, euismod a e
 * JavaScript
 * Git
 * GitHub
+
+## Grupo:
+* Equipe: 6
+* Cor: Malva (#E0B0FF)
+
+## 🧑‍🤝‍🧑 Autores
+* Rafael Viana Pereira 
+* Lucas Henrique Rodrigues Caldas
+* Enzo Bicalho Almeida
+* Aryel Siqueira Rodrigues
+* Cauane Bignardi
   
+## 🛠️ Desenvolvimento e Instalação
+Siga os passos abaixo para configurar o ambiente de desenvolvimento e executar o projeto:
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/seu-usuario/seu-projeto.git](https://github.com/seu-usuario/seu-projeto.git)
+    ```
+2.  **Navegue até a pasta do projeto:**
+    ```bash
+    cd seu-projeto
+    ```
+3.  **Abra o arquivo principal:** Abra o arquivo `src/index.html` em seu navegador para visualizar o projeto.
